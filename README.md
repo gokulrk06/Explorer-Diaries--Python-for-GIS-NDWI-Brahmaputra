@@ -5,7 +5,7 @@ A Google Earth Engine + Python case study deriving annual surface water indicato
 This notebook is part of an ongoing geospatial Python toolkit covering rainfall trend analysis, land-cover classification, terrain visualization, and multi-temporal change detection for river/hazard-relevant AOIs.
 
 ---
-
+![Interface for NDWI viz](NDWI.png)
 ## Why the Brahmaputra
 
 The Brahmaputra is one of the world's major transboundary rivers, flowing through Tibet (China), India, and Bangladesh. It is defined by an exceptionally dynamic channel morphology — extensive braiding, rapid seasonal channel migration, and among the highest sediment loads of any river system globally. Combined with intense monsoon-driven discharge variability, this makes consistent, remote-sensing-based water extent monitoring especially valuable for:
